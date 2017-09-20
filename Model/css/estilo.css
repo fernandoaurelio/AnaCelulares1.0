@@ -1,0 +1,19 @@
+.margem{
+    margin-top:150px;
+}
+.logoSup{
+    width: 30px;
+}
+.barraSup{
+    background-color: #000;
+    font-family: sans-serif;
+    color: white;
+}
+.redondo{
+    border-radius: 150px;
+}
+.PerfilImg{
+    width: 80px;
+    border-radius: 80px;
+    align-content: center;
+}
